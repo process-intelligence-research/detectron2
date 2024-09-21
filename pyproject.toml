@@ -1,2 +1,2 @@
 [build-system]
-requires = ["setuptools; platform_system == 'Linux' and platform_machine == 'x86_64'", "torch", "torchvision"]
+requires = ["setuptools", "torch", "torchvision"]
